@@ -38,8 +38,7 @@ function PlanPicker(){
           </button>
           <button
             className="cursor-pointer rounded-lg bg-[#EEEEEE] px-8 py-3 text-xl font-bold text-[#000000]"
-            onClick={handleAddMonth}
-          >
+            onClick={handleAddMonth}>
             Add month
           </button>
           <button
